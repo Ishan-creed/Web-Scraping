@@ -35,7 +35,8 @@ bash
 Copy code
 npm install
 Usage
-Open the scrape-reviews.js file in a text editor of your choice.
+
+Open the Scraping.js file in a text editor of your choice.
 
 Replace the TripAdvisor and Google Travel URLs with the URLs you want to scrape:
 
@@ -43,15 +44,15 @@ TripAdvisor URL: Update the tripAdvisorUrl variable.
 Google Travel URL: Update the googleTravelUrl variable.
 Save the changes to scrape-reviews.js.
 
-Run the script using Node.js: node Script.js
+Run the script using Node.js: 
 
 bash
 Copy code
-node scrape-reviews.js
+node Scraping.js
 The script will start scraping reviews from both TripAdvisor and Google Travel. The results will be printed to the console.
 
 Script Explanation
-The script scrape-reviews.js is divided into two functions:
+The script Scraping.js is divided into two functions:
 
 scrapeTripAdvisorReviews(): Scrapes reviews from TripAdvisor.
 scrapeGoogleTravelReviews(): Scrapes reviews from Google Travel.
