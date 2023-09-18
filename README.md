@@ -43,7 +43,7 @@ TripAdvisor URL: Update the tripAdvisorUrl variable.
 Google Travel URL: Update the googleTravelUrl variable.
 Save the changes to scrape-reviews.js.
 
-Run the script using Node.js:
+Run the script using Node.js: node Script.js
 
 bash
 Copy code
@@ -60,5 +60,3 @@ The main function main() calls both scraping functions and prints the results.
 Contributing
 Contributions are welcome! If you find any issues or improvements, please open an issue or create a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
